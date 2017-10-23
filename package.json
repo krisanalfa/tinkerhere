@@ -1,5 +1,9 @@
 {
     "name": "tinkerHere",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/krisanalfa/tinkerhere.git"
+    },
     "displayName": "Tinker Here",
     "description": "Open Artisan Tinker on Your Current Workspace",
     "version": "0.0.1",
