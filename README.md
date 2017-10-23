@@ -1,8 +1,14 @@
 # Tinker Here
 
-Open `artisan tinker` within [vscode](https://code.visualstudio.com/).
+<div style="text-align:center">
+    <img align="center" src="image/icon.png" />
+</div>
 
-![tinkerhere](image/tinkerhere.gif)
+Tinker Here allows you to open `artisan tinker` command within your [vscode](https://code.visualstudio.com/).
+
+<div style="text-align:center">
+    <img align="center" src="image/tinkerhere.gif" />
+</div>
 
 ## Features
 
@@ -33,5 +39,8 @@ You don't have to register your PHP executable file into your `PATH` envvars, yo
 
 ### [0.0.3] - 2017-10-23
 - **ADDED** Extension icon in `package.json` file by @krisanalfa.
+
+### [0.0.4] - 2017-10-23
+- **CHANGED** Change icon extension by @krisanalfa.
 
 **Enjoy!**
