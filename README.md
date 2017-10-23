@@ -31,4 +31,7 @@ You don't have to register your PHP executable file into your `PATH` envvars, yo
 ### [0.0.2] - 2017-10-23
 - **ADDED** Repository URL in `package.json` file by @krisanalfa.
 
+### [0.0.3] - 2017-10-23
+- **ADDED** Extension icon in `package.json` file by @krisanalfa.
+
 **Enjoy!**
