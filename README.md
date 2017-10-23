@@ -1,13 +1,13 @@
 # Tinker Here
 
 <div style="text-align:center">
-    <img align="center" src="image/icon.png" />
+    <img align="center" src="https://raw.githubusercontent.com/krisanalfa/tinkerhere/develop/image/icon.png" />
 </div>
 
 Tinker Here allows you to open `artisan tinker` command within your [vscode](https://code.visualstudio.com/).
 
 <div style="text-align:center">
-    <img align="center" src="image/tinkerhere.gif" />
+    <img align="center" src="https://raw.githubusercontent.com/krisanalfa/tinkerhere/develop/image/tinkerhere.gif" />
 </div>
 
 ## Features
@@ -45,5 +45,8 @@ You don't have to register your PHP executable file into your `PATH` envvars, yo
 
 ### [0.0.5] - 2017-10-23
 - **CHANGED** Images in README.md must come from an HTTPS source by @krisanalfa.
+
+### [0.0.6] - 2017-10-23
+- **CHANGED** Should change in README.md instead on package.json file by @krisanalfa.
 
 **Enjoy!**
