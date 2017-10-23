@@ -28,3 +28,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ## [0.0.6] - 2017-10-23
 ### Changed
 - Should change in README.md instead on package.json file by @krisanalfa.
+
+## [0.0.7] - 2017-10-23
+### Changed
+- Documentation by @krisanalfa.
