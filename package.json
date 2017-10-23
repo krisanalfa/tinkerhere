@@ -6,8 +6,8 @@
     },
     "displayName": "Tinker Here",
     "description": "Open Artisan Tinker on Your Current Workspace",
-    "version": "0.0.4",
-    "icon": "image/icon.png",
+    "version": "0.0.5",
+    "icon": "https://raw.githubusercontent.com/krisanalfa/tinkerhere/develop/image/icon.png",
     "publisher": "krisanalfa",
     "engines": {
         "vscode": "^1.17.0"
