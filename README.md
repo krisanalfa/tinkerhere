@@ -12,7 +12,7 @@ Tinker Here allows you to open `artisan tinker` command within your [vscode](htt
 
 ## Features
 
-It's simply open the Laravel Tinker CLI. [Here's](https://scotch.io/tutorials/tinker-with-the-data-in-your-laravel-apps-with-php-artisan-tinker) a good article to show you the goodness of tinker.
+It's simply open the Laravel Tinker CLI. [Here's](https://scotch.io/tutorials/tinker-with-the-data-in-your-laravel-apps-with-php-artisan-tinker) a good article to show you the goodness of tinker. To do so, you just need to open your command pallete: `CTRL` + `SHIFT` + `P` (Linux) or `CMD` + `SHIFT` + `P` (Mac), and search for `Tinker`.
 
 ## Requirements
 
@@ -48,5 +48,8 @@ You don't have to register your PHP executable file into your `PATH` envvars, yo
 
 ### [0.0.6] - 2017-10-23
 - **CHANGED** Should change in README.md instead on package.json file by @krisanalfa.
+
+### [0.0.7] - 2017-10-23
+- **CHANGED** Documentation by @krisanalfa.
 
 **Enjoy!**
