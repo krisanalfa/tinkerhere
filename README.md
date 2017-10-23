@@ -43,4 +43,7 @@ You don't have to register your PHP executable file into your `PATH` envvars, yo
 ### [0.0.4] - 2017-10-23
 - **CHANGED** Change icon extension by @krisanalfa.
 
+### [0.0.5] - 2017-10-23
+- **CHANGED** Images in README.md must come from an HTTPS source by @krisanalfa.
+
 **Enjoy!**
