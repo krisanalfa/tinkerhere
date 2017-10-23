@@ -8,3 +8,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 ### Added
 - Open `artisan tinker here` by @krisanalfa.
 - Configurable path to `php` binary via `tinkerHere.php` configuration section by @krisanalfa.
+
+## [0.0.2] - 2017-10-23
+### Added
+- Repository URL in `package.json` file by @krisanalfa.

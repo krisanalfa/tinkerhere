@@ -28,4 +28,7 @@ You don't have to register your PHP executable file into your `PATH` envvars, yo
 - **ADDED** Open `artisan tinker here` by @krisanalfa.
 - **ADDED** Configurable path to `php` binary via `tinkerHere.php` configuration section by @krisanalfa.
 
+### [0.0.2] - 2017-10-23
+- **ADDED** Repository URL in `package.json` file by @krisanalfa.
+
 **Enjoy!**
